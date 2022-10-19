@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clftjd889
-- 👀 I’m interested in "How to get a job"
-- 🌱 I’m currently learning c# and unity.... little... um... tiny
-- 💞️ I’m looking to collaborate on "not ready"
+- 👀 I’m interested in "Hob"
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me clftjd889@gmail.com
 
 <!---
